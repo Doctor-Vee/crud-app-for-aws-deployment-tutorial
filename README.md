@@ -3,7 +3,7 @@ I basically followed [this tutorial from bezkoder](https://www.bezkoder.com/depl
 
 
 
-For more detail, please visit:
+For more details from Bezkoder, please visit:
 > [Spring Boot JPA + MySQL - Building Rest CRUD API example](https://bezkoder.com/spring-boot-jpa-crud-rest-api/)
 
 > [Spring Boot JPA + PostgreSQL - Building Rest CRUD API example](https://bezkoder.com/spring-boot-postgresql-example/)
