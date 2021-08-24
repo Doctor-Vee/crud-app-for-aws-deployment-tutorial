@@ -8,11 +8,11 @@
 		<version>2.2.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bezkoder</groupId>
-	<artifactId>spring-boot-data-jpa</artifactId>
+	<groupId>com.tutorials</groupId>
+	<artifactId>crud-aws-deployment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-data-jpa</name>
-	<description>Demo project for Spring Boot Apis CRUD using Spring Data JPA</description>
+	<name>crud-app-for-aws-deployment-tutorial</name>
+	<description>CRUD Application for AWS Deployment tutorial</description>
 
 	<properties>
 		<java.version>1.8</java.version>

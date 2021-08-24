@@ -1,13 +1,13 @@
-package com.bezkoder.spring.datajpa;
+package com.tutorials.crudawsdeployment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootDataJpaApplication {
+public class CrudAppForAwsDeploymentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootDataJpaApplication.class, args);
+		SpringApplication.run(CrudAppForAwsDeploymentApplication.class, args);
 	}
 
 }

@@ -1,4 +1,7 @@
 # Spring Boot JPA MySQL - Building Rest CRUD API example
+I basically followed [this tutorial from bezkoder](https://www.bezkoder.com/deploy-spring-boot-aws-eb/) so as to learn to deploy on AWS.
+
+
 
 For more detail, please visit:
 > [Spring Boot JPA + MySQL - Building Rest CRUD API example](https://bezkoder.com/spring-boot-jpa-crud-rest-api/)

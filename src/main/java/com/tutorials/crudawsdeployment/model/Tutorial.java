@@ -1,4 +1,4 @@
-package com.bezkoder.spring.datajpa.model;
+package com.tutorials.crudawsdeployment.model;
 
 import javax.persistence.*;
 
